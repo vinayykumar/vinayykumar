@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFe5bQu89g/aaPaV8u1NYC7Bnj6V4UyJw/edit?utm_content=DAFe5bQu89g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://rishavchanda.io)
+[![MasterHead](https://www.canva.com/design/DAFe5bQu89g/yfKBKC8U2k5k9xljCUixAQ/view?utm_content=DAFe5bQu89g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A Web Development Enthusiast and a UI/UX Designer</h3>
 (img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif")
