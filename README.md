@@ -1,7 +1,7 @@
 [![MasterHead](https://www.canva.com/design/DAFe5bQu89g/yfKBKC8U2k5k9xljCUixAQ/view?utm_content=DAFe5bQu89g&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A Web Development Enthusiast and a UI/UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users1162077//screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayykumar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayykumar" /> </p>
 
