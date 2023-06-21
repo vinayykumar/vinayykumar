@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **vinayy1709@gmail.com**
 
