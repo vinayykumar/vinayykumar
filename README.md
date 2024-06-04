@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **User Interfaces and Experience**
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about ****
+- 🌱 I’m currently learning **NextJS + TypeScript**
 
 - 📫 How to reach me **vinayy1709@gmail.com**
 
-- ⚡ Fun fact **I Code**
+- ⚡ Fun fact **I design & Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
