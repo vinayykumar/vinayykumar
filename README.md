@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1HkNN-h14QN747tRgJSbZCf-T9MahHYDw/view?usp=drive_link)](https://rishavchanda.io)
+[![MasterHead][(https://drive.google.com/file/d/1HkNN-h14QN747tRgJSbZCf-T9MahHYDw/view?usp=sharing)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A Web Development Enthusiast and a UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users1162077//screenshots/3848914/programmer.gif">
