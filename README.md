@@ -22,6 +22,7 @@
 <a href="https://dribbble.com/vinay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vinay kumar" height="30" width="40" /></a>
 <a href="https://www.behance.net/vinay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vinay kumar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kevin1709" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chef_vinay17" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vinayy1709/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4h4yf5vhuu8_Dqf5VC1l1tFbIJ88N4H24jg&s" alt="vinayy1709" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
