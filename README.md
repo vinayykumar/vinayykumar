@@ -22,7 +22,7 @@
     <div align=center>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Alan+%F0%9F%91%8B;Software+Developer;Problem+Solver" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Vinay+%F0%9F%91%8B;Software+Developer;Problem+Solver" alt="Headline" />
 </div> 
 <div>
         <a href="https://www.linkedin.com/in/vinay-kumar-6a8120227/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
