@@ -1,4 +1,4 @@
-[![MasterHead](https://vinayykumar.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F76cbc7b4-55e7-4b62-b383-93e949551422%2F85f2de18-46ab-48d7-b95b-31bac905a187%2FLinkedIn_Banner.jpg?table=block&id=4a38b88d-c131-4a1d-8afb-ae5b8ed3948d&spaceId=76cbc7b4-55e7-4b62-b383-93e949551422&width=2000&userId=&cache=v2)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Welcome!🎉 To The World of..</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayykumar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayykumar" /> </p>
 <p>
