@@ -17,7 +17,7 @@
 
 <div align=center>
         <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanansari&show_icons=true&theme=dracula" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayykumar&show_icons=true&theme=dracula" alt="Stats" />
 </p>
     <div align=center>
 
