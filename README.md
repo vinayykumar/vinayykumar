@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)](https://rishavchanda.io)
 <h1 align="center">Welcome!🎉 To The World of..</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayykumar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayykumar" /> </p>
 <p>
