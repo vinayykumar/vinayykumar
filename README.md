@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanansari&label=Profile%20views&color=0e75b6&style=flat" alt="alanansari" /> </p>
 <p>
 <div align="center">
-<img height="40px" src="https://img.shields.io/badge/-Alan-109c5b?&style=for-the-badge&logoWidth=50"/>
-<img height="40px" src="https://img.shields.io/badge/-Ansari-024023?&style=for-the-badge&logoWidth=50"/>
+<img height="40px" src="https://img.shields.io/badge/-VINAY-109c5b?&style=for-the-badge&logoWidth=50"/>
+<img height="40px" src="https://img.shields.io/badge/-KUMAR-024023?&style=for-the-badge&logoWidth=50"/>
 </div>
 
 <br>
@@ -15,12 +15,6 @@
 <img src="https://img.shields.io/badge/-Developer-109c5b?&style=for-the-badge&logoWidth=50"/>
 </div>
 </p>
-
-<div align=center>
-        <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanansari&show_icons=true&theme=dracula" alt="Stats" />
-</p>
-    <div align=center>
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Alan+%F0%9F%91%8B;Software+Developer;Problem+Solver" alt="Headline" />
