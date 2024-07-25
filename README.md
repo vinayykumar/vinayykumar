@@ -42,7 +42,7 @@
 <br>
 <br>
 
-<img align="center" width="700px" alt="GIF" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
+<img align="center" width="700px" alt="GIF" src="https://64.media.tumblr.com/3767e62f5ec0f9e342888645959d024e/ea845d2117ae38ea-1c/s1280x1920/434ba20c0469cd7a9199ca811e3712fb6c3fa794.gifv" />
 
 <br>
 <h1 align="center">My Tech-Stack:</h1>
