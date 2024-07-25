@@ -1,35 +1,91 @@
 [![MasterHead](https://vinayykumar.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F76cbc7b4-55e7-4b62-b383-93e949551422%2F85f2de18-46ab-48d7-b95b-31bac905a187%2FLinkedIn_Banner.jpg?table=block&id=4a38b88d-c131-4a1d-8afb-ae5b8ed3948d&spaceId=76cbc7b4-55e7-4b62-b383-93e949551422&width=2000&userId=&cache=v2)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">A Web Development Enthusiast and a UI/UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users1162077//screenshots/3848914/programmer.gif">
+<h1 align="center">Welcome!🎉 To The World of..</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanansari&label=Profile%20views&color=0e75b6&style=flat" alt="alanansari" /> </p>
+<p>
+<div align="center">
+<img height="40px" src="https://img.shields.io/badge/-Alan-109c5b?&style=for-the-badge&logoWidth=50"/>
+<img height="40px" src="https://img.shields.io/badge/-Ansari-024023?&style=for-the-badge&logoWidth=50"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayykumar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayykumar" /> </p>
+<br>
 
-- 🔭 I’m currently working on **User Interfaces and Experience**
-
-- 🌱 I’m currently learning **NextJS + TypeScript**
-
-- 📫 How to reach me **vinayy1709@gmail.com**
-
-- ⚡ Fun fact **I design & Code**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/vinayykumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinayykumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay kumar" height="30" width="40" /></a>
-<a href="https://codesandbox.com/vinayykumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vinayykumar" height="30" width="40" /></a>
-<a href="https://instagram.com/el_vinayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_vinayy" height="30" width="40" /></a>
-<a href="https://dribbble.com/vinay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vinay kumar" height="30" width="40" /></a>
-<a href="https://www.behance.net/vinay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vinay kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kevin1709" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chef_vinay17" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vinayy1709/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4h4yf5vhuu8_Dqf5VC1l1tFbIJ88N4H24jg&s" alt="vinayy1709" height="30" width="40" /></a>
+<div align="center">
+<img src="https://img.shields.io/badge/-A-109c5b?&style=for-the-badge&logoWidth=50"/>
+<img src="https://img.shields.io/badge/-Software-024023?&style=for-the-badge&logoWidth=50"/>
+<img src="https://img.shields.io/badge/-Developer-109c5b?&style=for-the-badge&logoWidth=50"/>
+</div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div align=center>
+        <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanansari&show_icons=true&theme=dracula" alt="Stats" />
+</p>
+    <div align=center>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayykumar&show_icons=true&locale=en&layout=compact" alt="vinayykumar" /></p>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Alan+%F0%9F%91%8B;Software+Developer;Problem+Solver" alt="Headline" />
+</div> 
+<div>
+    <a href="https://www.linkedin.com/in/alan-a-2a2839115/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
+    <a href="https://twitter.com/alan_ansari02"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+        <a href="https://www.discordapp.com/users/_orion_314"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+        <a href="mailto:ansarialan31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayykumar&show_icons=true&locale=en" alt="vinayykumar" /></p>
+<h2 align="center">About Me 🚀</h2>
+<p align="center">
+👦Pursuing my Bachelors Degree in "Computer Science". </br>
+💻I enjoy building new stuff and learning along the way.</br>
+👨‍💻I have experience working with the MERN Stack.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayykumar&" alt="vinayykumar" /></p>
+<br>
+<br>
+
+<img align="center" width="700px" alt="GIF" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" />
+
+<br>
+<h1 align="center">My Tech-Stack:</h1>
+<div align="center">
+        
+### Languages    
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### Framework and Libraries
+
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Socket](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white"/>
+  <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white"/>
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+### Database
+
+  ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+ 
+### Tools and Services
+
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
+  <img alt="GIT" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
+  
+</div>
+
+<!-- Jokes of the Day -->
+<h1 align="center">return badPun;</h1>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Joke" />
+</p>
+
+<div align="center">
+  
+<h3> 📄  Please check out my <a href="https://devalan.tech"> Portfolio </a> ❤️ for more information about my experience and skills.</h3>
+
+</div>
