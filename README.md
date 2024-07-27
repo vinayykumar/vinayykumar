@@ -8,7 +8,6 @@
 </div>
 <br>
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ups5nxbtq4w632aj3nbnyqykxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 <div align="center">
@@ -18,9 +17,10 @@
 </div>
 </p>
 
-<div align=center>
+<div  align=center>
         <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinayykumar&show_icons=true&theme=dracula" alt="Stats" />
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ups5nxbtq4w632aj3nbnyqykxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 </p>
     <div align=center>
 
