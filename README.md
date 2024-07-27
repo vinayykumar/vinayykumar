@@ -7,7 +7,9 @@
 <img height="40px" src="https://img.shields.io/badge/-KUMAR-024023?&style=for-the-badge&logoWidth=50"/>
 </div>
 <br>
+
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ups5nxbtq4w632aj3nbnyqykxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/-A-109c5b?&style=for-the-badge&logoWidth=50"/>
