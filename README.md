@@ -36,7 +36,7 @@
 
 <h2 align="center">About Me 🚀</h2>
 <p align="center">
-👦 Computer Science Student Exploring Tech". </br>
+👦 Computer Science Student Exploring Tech. </br>
 💻 A Developer with a great sense of Design. </br>
 👨‍💻 I have experience in ReactJS and Design. 
 </p>
